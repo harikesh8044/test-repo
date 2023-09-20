@@ -1,3 +1,3 @@
 # test-repo
 My First GitHub Repo
-Author - S Harikesh
+Author - S Harikesh (B.tech)
